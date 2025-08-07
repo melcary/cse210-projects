@@ -1,0 +1,2 @@
+50
+SimpleGoal:pray,pray every day,50,True
